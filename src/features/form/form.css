@@ -1,0 +1,10 @@
+.form{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.error{
+    position: absolute;
+    top: 40px;
+
+}
